@@ -115,3 +115,7 @@ button:hover {
 .imageItem button:hover {
     background: rgba(255, 0, 0, 1);
 }
+
+#imageInput {
+    display: none;
+}
